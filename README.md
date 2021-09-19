@@ -1,4 +1,5 @@
 # QlPanel创建青龙面板
+
 1.安装docker
 使用 root 权限登录 Centos。确保 yum 包更新到最新。
 sudo yum update
@@ -17,7 +18,7 @@ systemctl status docker.service
 systemctl enable docker.service
 开启服务:
 systemctl start docker.service
-2.青龙面板安装
+##2.青龙面板安装
 拉取青龙的镜像文件（官方）
 docker pull whyour/qinglong:latest
 创建容器
