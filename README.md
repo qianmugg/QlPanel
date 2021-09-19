@@ -45,3 +45,6 @@ cat /ql/config/auth.json
 输出的结果就是实际的密码了
 {"username":"admin","password":"******"
 至此，青龙面板就安装完成了！
+
+
+原文档地址：https://zhuanlan.zhihu.com/p/387337954
